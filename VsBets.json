@@ -1,0 +1,10 @@
+[
+  {"BetID": "Vs1", "BetDifficulty": "Medium","BetText": "MEDIUM: One of us got it first: Get first blood. Assists DON'T COUNT!"},
+  {"BetID": "Vs2", "BetDifficulty": "Insane","BetText": "INSANE: Complete Dominance!: Get a Pentakill"},
+  {"BetID": "Vs3", "BetDifficulty": "One Wins","BetText": "ONE WINS: My Damage Is Over 9000!: Whoever gets the most damage wins!!!."},
+  {"BetID": "Vs4", "BetDifficulty": "One Wins", "BetText": "ONE WINS: They can't move! Whoever CC's others for more time than the other wins!!!"},
+  {"BetID": "Vs5", "BetDifficulty": "One Wins", "BetText": "ONE WINS: I am the master... Whoever gets more kills wins!!!."},
+  {"BetID": "Vs6", "BetDifficulty": "Tag Team", "BetText": "TAG TEAM: Stop their retreat!: Together, Get 30 TAKEDOWNS (A Takedown is an assist or a kill!)."},
+  {"BetID": "Vs7", "BetDifficulty": "Tag Team", "BetText": "TAG TEAM: Cut them off!: Together, destroy 5 towers."},
+  {"BetID": "Vs8", "BetDifficulty": "Tag Team", "BetText": "TAG TEAM: Break their lines!: Together, CC other for 40 seconds or more!"}
+]

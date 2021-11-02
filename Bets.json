@@ -1,0 +1,16 @@
+[
+  {"BetID": 0, "BetDifficulty": "Easy", "BetText": "EASY: GG no re: Win the game."},
+  {"BetID": 1, "BetDifficulty": "Medium","BetText": "MEDIUM: The first battlecry: Get first blood and win. (Assists Count!)"},
+  {"BetID": 2, "BetDifficulty": "Medium","BetText": "MEDIUM: Drakes win games: Your team has more Drakes than the enemy, and you win."},
+  {"BetID": 3, "BetDifficulty": "Insane","BetText": "INSANE: Who feed???: Get a Pentakill"},
+  {"BetID": 4, "BetDifficulty": "Medium","BetText": "MEDIUM: A complete 1V9: Deal damage: 2'nd/1'st place in your team and win."},
+  {"BetID": 5, "BetDifficulty": "Medium", "BetText": "MEDIUM: LEEROOOY JEENKINNS!!!!: Get more rift heralds than the enemy team and win."},
+  {"BetID": 6, "BetDifficulty": "Hard", "BetText": "HARD: Objective masters: Your team gets more rift heralds + more drakes than the enemy team and you win"},
+  {"BetID": 7, "BetDifficulty": "Hard", "BetText": "HARD: DOOR'S STUCK! CC others for more than 40 seconds. THIS DOES NOT REQUIRE YOU TO WIN."},
+  {"BetID": 8, "BetDifficulty": "Medium", "BetText": "MEDIUM: WTF was that damage my guy???: Crit for over 1000. THIS DOES NOT REQUIRE YOU TO WIN."},
+  {"BetID": 14, "BetDifficulty": "Easy", "BetText": "EASY: Red crystals? : Get first inhibitor. Doesn't require you to win (Assists Count!)."},
+  {"BetID": 10, "BetDifficulty": "Medium", "BetText": "MEDIUM: Wow, nice CS!: Get at least 8 cs/min"},
+  {"BetID": 11, "BetDifficulty": "Hard", "BetText": "HARD: Great play! : Get more than 10 kills and win."},
+  {"BetID": 12, "BetDifficulty": "Hard", "BetText": "HARD: Great support! : Get more than 10 assists, have a good vision score (about 1.5x game time) and win."},
+  {"BetID": 13, "BetDifficulty": "Easy", "BetText": "EASY: Turrets? : Get first tower. Doesn't require you to win (Assists Count!)"}
+]

@@ -1,0 +1,6 @@
+[
+  {"BetID": 6, "BetDifficulty": "Hard", "BetText": "HARD: Objective masters: Your team gets more rift heralds + more drakes than the enemy team and you win"},
+  {"BetID": 7, "BetDifficulty": "Hard", "BetText": "HARD: DOOR'S STUCK! CC others for more than 40 seconds. THIS DOES NOT REQUIRE YOU TO WIN."},
+  {"BetID": 11, "BetDifficulty": "Hard", "BetText": "HARD: Great play! : Get more than 10 kills and win."},
+  {"BetID": 12, "BetDifficulty": "Hard", "BetText": "HARD: Great support! : Get more than 10 assists, have a good vision score (about 1.5x game time) and win."}
+]
